@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    width: 700px;
+    width: 900px;
     height: 500px;
     display: grid;
     gap: 1em;
