@@ -2,8 +2,12 @@ body{
     margin: 0;
     padding: 0;
     background-color: #DBF3E3;
+    height: 100vh;
+
 }
 
 .container{
     margin: 0 auto;
+    width: 900px;
+    height: 500PX;
 }
