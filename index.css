@@ -11,11 +11,13 @@ body{
     height: 500px;
     margin: 2em;
     display: grid;
+    gap: 1em;
     grid-template-areas: 
         "first-img  main-title  rocket-img"
         "first-img  space  rocket-img"
         "stars  space  rocket-img";
-        grid-template-columns: repeat(1, );
+        grid-template-columns: repeat(3, 1fr);
+
 }
 
 
