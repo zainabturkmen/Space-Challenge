@@ -7,7 +7,6 @@ body{
     justify-content: center; 
     align-items: center;
 }      
-
 .container{
     width: 900px;
     height: 500px;
@@ -20,7 +19,6 @@ body{
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: 50% 1fr auto;
 }  
-  
 .first-img{
     grid-area: first-img;
     margin-bottom: -1.8em;
