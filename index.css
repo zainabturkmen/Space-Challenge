@@ -7,6 +7,13 @@ body{
 
 .container{
     margin: 0 auto;
-    width: 900px;
-    height: 500PX;
+    width: 700px;
+    height: 500px;
 }
+
+.title{
+    background-color: #fff;
+    width: 300px;
+    margin-top: -1.6em;
+}
+
