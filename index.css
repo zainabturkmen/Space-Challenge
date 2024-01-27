@@ -1,5 +1,9 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #DBF3E3;
 }
 
+.container{
+    margin: 0 auto;
+}
