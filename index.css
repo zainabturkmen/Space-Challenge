@@ -25,7 +25,17 @@ body{
     grid-area: main-title;
 }
 
+.rocket-img{
+    grid-area: rocket-img;
+}
 
+.space{
+    grid-area: space;
+}
+
+.stars{
+    grid-area: stars;
+}
 
 .title{
     background-color: #fff;
