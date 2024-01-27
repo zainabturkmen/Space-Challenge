@@ -9,6 +9,7 @@ body{
     margin: 0 auto;
     width: 700px;
     height: 500px;
+    margin: 2em;
 }
 
 .title{
@@ -50,6 +51,11 @@ body{
     color: #79BA8F;
     width: 300px;
     text-align: center;
-    justify-self: center;
     height: 200px;
+    margin-bottom: -2em;
+}
+
+.last-tittle h1{
+    justify-self: center;
+
 }
