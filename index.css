@@ -15,7 +15,9 @@ body{
         "first-img  main-title  rocket-img"
         "first-img  space  rocket-img"
         "stars  space  rocket-img";
+        grid-template-columns: repeat(1, );
 }
+
 
 .first-img{
     grid-area: first-img;
@@ -80,13 +82,13 @@ body{
 .last-tittle{
     background-color: #AFDDBE;
     color: #79BA8F;
-    width: 300px;
     text-align: center;
-    /* height: 200px; */
     margin-bottom: 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 300px;
+    height: 278px;
 }
 
 .last-tittle h1{
