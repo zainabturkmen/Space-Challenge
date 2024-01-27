@@ -48,4 +48,6 @@ body{
 .last-tittle{
     background-color: #AFDDBE;
     color: #79BA8F;
+    width: 300px;
+    text-align: center;
 }
