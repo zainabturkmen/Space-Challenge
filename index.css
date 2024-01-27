@@ -13,8 +13,9 @@ body{
 
 .title{
     background-color: #fff;
-    width: 300px;
-    margin-top: -1.6em;
+    width: 268px;
+    margin-top: -.5em;
+    padding: .3em 0 .5em 2em;
 }
 
 .title h1{
