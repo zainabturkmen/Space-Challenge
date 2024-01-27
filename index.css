@@ -52,10 +52,14 @@ body{
     width: 300px;
     text-align: center;
     height: 200px;
-    margin-bottom: -2em;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .last-tittle h1{
     justify-self: center;
-
+    
 }
