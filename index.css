@@ -18,8 +18,14 @@ body{
 }
 
 .first-img{
-    
+    grid-area: first-img;
 }
+
+.main-title{
+    grid-area: main-title;
+}
+
+
 
 .title{
     background-color: #fff;
