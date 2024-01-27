@@ -38,7 +38,6 @@ body{
 .rocket-img{
     grid-area: rocket-img;
 }
-
 .last-tittle{
     grid-area: space;
     margin-top: 1.5em;
