@@ -50,4 +50,6 @@ body{
     color: #79BA8F;
     width: 300px;
     text-align: center;
+    justify-self: center;
+    height: 200px;
 }
