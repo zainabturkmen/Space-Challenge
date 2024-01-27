@@ -12,7 +12,9 @@ body{
     margin: 2em;
     display: grid;
     grid-template-areas: 
-        "first-img  main-title  rocket-img";
+        "first-img  main-title  rocket-img"
+        "first-img  space  rocket-img"
+        "stars  space  rocket-img";
 }
 
 .title{
@@ -54,7 +56,7 @@ body{
     color: #79BA8F;
     width: 300px;
     text-align: center;
-    height: 200px;
+    /* height: 200px; */
     margin-bottom: 0;
     display: flex;
     justify-content: center;
