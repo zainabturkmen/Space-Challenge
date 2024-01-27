@@ -25,12 +25,10 @@ body{
     grid-area: first-img;
     margin-bottom: -1.8em;
 }
-
 .first-img img{
     height: 295px;
     width: 300px;
 }
-
 .main-title{
     grid-area: main-title;
 }
