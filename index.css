@@ -27,8 +27,9 @@ body{
 }
 
 .first-img img{
-    height: 300px;
+    height: 295px;
     width: 300px;
+
 }
 
 .main-title{
@@ -41,6 +42,7 @@ body{
 
 .last-tittle{
     grid-area: space;
+    margin-top: 1.5em;
 }
 
 .stars{
@@ -64,9 +66,10 @@ body{
 
 .main-title{
     background-color: #33A559;
-    width: 253px;
+    height: 225px;
     padding: 1.5em;
-    margin-top: 1em;
+    margin-top: 0em;
+
 }
 
 .main-title h1{
