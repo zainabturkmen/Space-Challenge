@@ -10,10 +10,8 @@ body{
 
 .container{
    
-    margin: 0 auto;
     width: 700px;
     height: 500px;
-    margin: 2em;
     display: grid;
     gap: 1em;
     grid-template-areas: 
