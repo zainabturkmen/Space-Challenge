@@ -47,7 +47,6 @@ body{
 .stars{
     grid-area: stars;
 }
-
 .title{
     background-color: #fff;
     width: 268px;
