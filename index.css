@@ -10,6 +10,7 @@ body{
     width: 700px;
     height: 500px;
     margin: 2em;
+    display: grid;
 }
 
 .title{
@@ -61,3 +62,4 @@ body{
 .last-tittle h1{
     justify-self: center;
 }
+
