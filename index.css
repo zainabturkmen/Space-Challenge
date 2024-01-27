@@ -34,7 +34,6 @@ body{
 .main-title{
     grid-area: main-title;
 }
-
 .rocket-img{
     grid-area: rocket-img;
 }
