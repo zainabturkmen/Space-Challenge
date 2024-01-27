@@ -17,6 +17,7 @@ body{
         "first-img  space  rocket-img"
         "stars  space  rocket-img";
         grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 40% 1fr auto;
 
 }
 
